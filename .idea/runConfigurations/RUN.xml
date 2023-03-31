@@ -1,0 +1,22 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RUN" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <envs>
+      <env name="DB_DATABASE" value="vdig" />
+      <env name="DB_HOST" value="localhost" />
+      <env name="DB_PASS" value="1357911" />
+      <env name="DB_PORT" value="3306" />
+      <env name="DB_USER" value="root" />
+      <env name="DEBUG" value="DEBUG" />
+      <env name="SERVER_PORT" value="9090" />
+      <env name="SYNC_ENABLED" value="disable" />
+      <env name="SYNC_FOLDER" value="C:\Users\Pedro-pc\Downloads\01-03-23" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.sm.admDecretos.admDecretosApplication" />
+    <module name="admDecretos-be" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

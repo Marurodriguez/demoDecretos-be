@@ -1,0 +1,1 @@
+mysqldump -uroot -p1357911 --routines vdig --no-data --result-file=vdig.sql

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="smsoluciones-digitalizacion-api" />
+        <module name="Digitalizacion back" />
+        <module name="admDecretos-be_core" />
+        <module name="consultas-digitalizaciones-be" />
+        <module name="vDig" />
+        <module name="backend" />
+        <module name="admDecretos" />
+        <module name="admDecretos-be" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Digitalizacion back" options="-parameters" />
+      <module name="backend" options="-parameters" />
+      <module name="consultas-digitalizaciones-be" options="-parameters" />
+      <module name="admDecretos" options="-parameters" />
+      <module name="admDecretos-be" options="-parameters" />
+      <module name="admDecretos-be_core" options="-parameters" />
+      <module name="smsoluciones-digitalizacion-api" options="-parameters" />
+      <module name="vDig" options="-parameters" />
+    </option>
+  </component>
+</project>

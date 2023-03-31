@@ -1,0 +1,6 @@
+com.sm.cartadocumento
+com.sm.cartadocumento.Configuration
+com.sm.cartadocumento.Core.Controller
+com.sm.cartadocumento.Core.Entity.Db
+com.sm.cartadocumento.Core.Service
+com.sm.cartadocumento.Security
